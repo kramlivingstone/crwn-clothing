@@ -13,4 +13,3 @@ const SignInAndSignUpPage = () => (
 );
 
 export default SignInAndSignUpPage;
-
